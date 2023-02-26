@@ -4,6 +4,6 @@
 - 👀 profile under construction 
 
 
-- Knowledge: 
+- 🌱 Knowledge: 
 • c++, python, html, css and javascript basic
 
